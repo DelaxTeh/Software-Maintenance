@@ -40,6 +40,7 @@ public class Student {
         System.out.println("ALALALALAL");
     }
    
+    void B1(){}
     void testAll()
     {
         System.out.println("Hello");
