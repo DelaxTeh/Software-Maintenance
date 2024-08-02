@@ -32,10 +32,17 @@ public class Student {
         System.out.println("Testing...");
 
     }
+    void myTest(){
+        System.out.println("Test");
+    }
+
+    void myTest2(){
+        System.out.println("ALALALALAL");
+    }
    
     void testAll()
- {
-     System.out.println("Hello");
-     return;
-}
+    {
+        System.out.println("Hello");
+        return;
+    }
 }
