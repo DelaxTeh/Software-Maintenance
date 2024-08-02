@@ -46,4 +46,8 @@ public class Student {
         System.out.println("Hello");
         return;
     }
+
+    int countAll(){
+        return 0;
+    }
 }
