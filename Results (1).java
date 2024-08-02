@@ -32,10 +32,6 @@ public class Student {
         System.out.println("Testing...");
 
     }
-
-    void myTesr(){
-        System.out.println("Test Page")
-    }
    
     void testAll()
  {
